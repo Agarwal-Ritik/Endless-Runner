@@ -1,3 +1,5 @@
+# Endless Runner
+
 ### This is my third year unity project.
 
 - I had build a 3D game called Endless Runner.
@@ -21,11 +23,11 @@
   
 ### In this game player has 3 unlocked movements
 
+Gamer will use these controls to make player avoid the obstacles and collecting reward points by going left, right or jump.
+
 1. Left movement -> using left arrow key
 2. Right movement -> using right arrow key
 3. Jump movement -> using space bar key
-
-### Gamer will use these controls to make player avoid the obstacles and collecting reward points by going left, right or jump.
 
 </details>
 
