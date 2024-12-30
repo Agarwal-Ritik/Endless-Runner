@@ -7,13 +7,10 @@
 
 <details>
   
-<summary>Technology used</summary>
+<summary>Technology Used</summary>
 
-
-| Technology        |
-|-------------------|
-| Unity Game Engine |
-| C# Language       |
+- Unity Game Engine
+- C# Language
 
 </details>
 
