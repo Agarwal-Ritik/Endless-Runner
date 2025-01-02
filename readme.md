@@ -4,6 +4,7 @@
 
 - I had build a 3D game called Endless Runner.
 - In this game there is a spherical ball as player and two types of obstacles in cubicle shape and one coin shape reward point object.
+- The player will run in the game untill it collides with an obstacle and becomes dead which led the game to over.
 
 <details>
   
